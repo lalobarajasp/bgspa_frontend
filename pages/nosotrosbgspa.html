@@ -11,12 +11,13 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
     integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   <!--<link rel="stylesheet" href="../css/logIn.css">    Por el momento este css choca con el disenio general de la pagina-->
-  <link rel="stylesheet" href="/css/nosotrosbgspa.css">
+  <!--Es importante el orden para mantener el footer ajustado-->
   <link rel="stylesheet" href="../css/headerFooter.css">
+  <link rel="stylesheet" href="../css/index.css">
+  <link rel="stylesheet" href="../css/nosotrosbgspa.css">
   <!--SWEET ALERTS-->
   <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <!--Animacion cartas------------>
- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> 
   <title>BGSpa - Nosotros</title>
 </head>
 
@@ -82,13 +83,12 @@
 <br>
 
 <body>
-  <main class="container-fluid">
-    <h1 class="titulo col-sm-12">Sobre nosotros</h1>
   
-    <div class="row">
-      <div class="col">
-        <div class="subtitulos col-sm-md-lg-11">Visión</div>
-        <div class="descripcion col-sm-md-lg-11">
+    <h1 class="titulo">Sobre nosotros</h1>
+  
+    
+        <div class="subtitulos">Visión</div>
+        <div class="descripcion">
           <p class="parrafo"> Nuestra empresa esta comprometida a mejorar el equilibrio de la mente,
             el cuerpo y el espíritu de cada uno de nuestros clientes, así como
             mejorar aspectos físicos para que cada persona refleje una mejor imagen
@@ -96,8 +96,8 @@
           </p>
         </div>
   
-        <div class="subtitulos col-sm-md-lg-11">Misión</div>
-        <div class="descripcion col-sm-md-lg-11">
+        <div class="subtitulos">Misión</div>
+        <div class="descripcion">
           <p class="parrafo"> Queremos llegar a ser una empresa líder y reconocidos en el mercado
             mexicano y del mundo, identificados por nuestro profesionalismo,
             calidad, y excelencia en nuestros productos y en la atención al cliente;
@@ -107,8 +107,8 @@
           </p>
         </div>
   
-        <div class="subtitulos col-sm-md-lg-11">Compromiso</div>
-        <div class="descripcion col-sm-md-lg-11">
+        <div class="subtitulos">Compromiso</div>
+        <div class="descripcion">
           <p class="parrafo"> Mejora contínua de nuestros procesos internos de trabajo que permita reducir
             los tiempos de espera y maximizar la eficiencia y eficacia. Trabajar con la máxima
             transparencia. Recomendar a los clientes aquellos productos que satisfagan sus
@@ -116,21 +116,9 @@
             medios para ejecutar trabajos perfectos.
           </p>
         </div>
-      </div>
-      <div class="col-sm-12 col-lg-6">
-        <div class="col-sm-12">
-          <img class="img1" src="/img/esteticos/imgkit.jpeg" alt="">
-        </div>
-        <div class="posicion">
+     
           <button type="button" class="col-md-8 btnCatalogo" id="btnCatalogo">Mira nuestro catálogo</button>
-        </div>
-      </div>
-    </div>
-    <br>
-    <br>
-  </main>
-  <br>
-  <br>
+     
 
 
 <!--Footer | inicio-->
@@ -202,11 +190,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
     crossorigin="anonymous"></script>
-  <!-----Animacion Cartas-------------------->
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-    AOS.init();
-  </script>
+
   </body>
 
 </html>

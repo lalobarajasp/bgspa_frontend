@@ -1,6 +1,7 @@
 /* ----FOOTER---------------------------------*/
 
 body{
+    font-family: Raleway, sans-serif;
     position: relative;
     padding-bottom: 15rem ;
     min-height: 100vh;
@@ -34,11 +35,7 @@ body{
 
 
 
-.container-fluid{
-    width: auto;
-    margin-left: 5%;
-    margin-right: 5%;
-}
+
 
 .titulo{
     font-weight: 400;
@@ -122,4 +119,4 @@ body{
     .img1{
         margin: 255px 0px 0px;
     }
-}
+} 
