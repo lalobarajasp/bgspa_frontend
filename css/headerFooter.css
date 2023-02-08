@@ -68,8 +68,8 @@ footer{
 
 .card-body {
     padding: 0px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }/* Padding de car´d individuales*/
 
 .cardAtencion, .cardAtencion:hover {

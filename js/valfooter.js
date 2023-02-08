@@ -37,10 +37,10 @@ btnSuscribirse.addEventListener("click", function(e){
         'Correo electrónico: '+cOferta.value;
               Email.send({
                   Host : "smtp.elasticemail.com",
-                  Username : "bgspacompany@gmail.com",
-                  Password : "DD76DC61EDD1EC165A9B8D27BE92A40E263A",
-                  To : 'edubarajas98@gmail.com', 
-                  From : 'bgspacompany@gmail.com',  
+                  Username : "bgspa.empresa@gmail.com",
+                  Password : "72DA0337755F94345B614633A2DBC657AEFC",
+                  To : 'bgspa.empresa@gmail.com', 
+                  From : 'bgspa.empresa@gmail.com',  
                   Subject : "NUEVO SUSCRIPTOR BG SPA",
                   Body : Body
               }).then(
@@ -68,10 +68,10 @@ function emailOfertasUser(){
     '¡Hola! Muchas gracias por suscribirte a BG SPA.<br>A partir de ahora recibirá notificaciones sobre nuestros productos en oferta.'
           Email.send({
               Host : "smtp.elasticemail.com",
-              Username : "bgspacompany@gmail.com",
-              Password : "DD76DC61EDD1EC165A9B8D27BE92A40E263A",
+              Username : "bgspa.empresa@gmail.com",
+              Password : "72DA0337755F94345B614633A2DBC657AEFC",
               To : cOferta.value, 
-              From : 'bgspacompany@gmail.com',  
+              From : 'bgspa.empresa@gmail.com',  
               Subject : "CONFIRMACIÓN DE SUSCRIPCIÓN A BG SPA",
               Body : Body
           })

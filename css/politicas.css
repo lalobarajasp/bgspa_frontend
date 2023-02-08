@@ -1,4 +1,15 @@
+@media screen and (max-width: 970px) {
 
+    body{
+        position: relative;
+        padding-bottom: 35rem;
+        min-height: 100vh;
+        
+    }/* Ajuste body para no alterar footer*/
+        /* SE AGREGA A CSS 9/1/22 */
+   
+        
+}
 .titulo{
     font-weight: 400;
     font-size: 73px;

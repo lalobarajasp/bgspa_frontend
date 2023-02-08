@@ -122,7 +122,7 @@ btnSubmit1.addEventListener("click", function(e){
     }
 
     // Validación Mensaje
-    if ((campoMensaje.value.length >= 10) && (campoMensaje.value.length <120) && !(campoMensaje.value.trim() == "") && (campoMensaje.value[0] != " ")) {
+    if ((campoMensaje.value.length >= 3) && (campoMensaje.value.length <120) && !(campoMensaje.value.trim() == "") && (campoMensaje.value[0] != " ")) {
         campoMensaje.classList.remove("is-invalid");
         campoMensaje.classList.add("is-valid");
         flag.campoMensaje = true
@@ -185,10 +185,10 @@ btnSubmit1.addEventListener("click", function(e){
     'Nombre: '+nombre.value+'<br>Apellido: '+apellido.value+'<br>Teléfono: '+campoTelefono.value+'<br>Empresa: '+empresa.value+'<br>Correo electrónico: '+correoe.value+'<br>Mensaje: '+campoMensaje.value;
           Email.send({
               Host : "smtp.elasticemail.com",
-              Username : "bgspacompany@gmail.com",
-              Password : "DD76DC61EDD1EC165A9B8D27BE92A40E263A",
-              To : 'alamatzin@ciencias.unam.mx', 
-              From : 'bgspacompany@gmail.com',  
+              Username : "bgspa.empresa@gmail.com",
+              Password : "72DA0337755F94345B614633A2DBC657AEFC",
+              To : 'bgspa.empresa@gmail.com', 
+              From : 'bgspa.empresa@gmail.com',  
               Subject : "DISTRIBUIDOR BG SPA",
               Body : Body
           }).then(
