@@ -1,5 +1,3 @@
-//let div = document.getElementById("divData");
-//let mainProds = document.getElementById("mainProductos");
 let check1 = document.getElementById("customCheck1");
 let check2 = document.getElementById("customCheck2");
 let check3 = document.getElementById("customCheck3");
@@ -48,9 +46,6 @@ function filtrar (event){
 	
 	const temsContainier = document.getElementById("mediaQ3");
 	
-	
-	
-
 
 
             function addItem(item){
