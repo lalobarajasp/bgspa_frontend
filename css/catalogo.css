@@ -60,7 +60,13 @@ body{
     box-shadow: inset 0 0 20px white;
 }
 /*------------------------------------------------*/
-
+.aromasjellyspa{
+    color:  #a73c83;
+}
+.aromasSalesMine{
+    color:  #a73c83;
+}
+/*---------------------------------------------------*/
 .carousel {
     margin-bottom: 20px;
 }

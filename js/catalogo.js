@@ -231,7 +231,7 @@ addItem({'nombre':'Lija pie de madera para pedicure',
 'descripcion':'De Alta calidad, ergonómica, Para todo tipo de piel, elimina callos y piel muerta, dejando tus pies suaves y tersos.',
 'precio':'18.00', 
 'categoria':'Básicos',
-'id':'9'});  
+'id':'9'});   
 
 addItem({'nombre':'Ablandador de callosidades 60ml',
 'img':'/img/Productos/Basicos/Ablandador de callosidades 60ml.png',
@@ -312,3 +312,277 @@ addItem({'nombre':'Latex líquido (cubre cuticula) 15ml',
 'id':'20'}); 
 
 //---------------------------HERRAMIENTAS-----------------------------------------------------------------
+addItem({'nombre':'Tina para pedicure plegable',
+'img':'/img/Productos/herramientas/Tina para pedicure plegable.png',
+'descripcion':'Diseño plegable, ahorro de espacio y fácil de llevar al exterior. Lo suficientemente grueso, no es fácil de deformar. Con 4 rodillos de masaje.',
+'precio':'237.00', 
+'categoria':'Herramientas',
+'id':'21'}); 
+
+addItem({'nombre':'Tina para pedicure sencilla c/ rodillos',
+'img':'/img/Productos/herramientas/Tina para pedicure Sencilla c rodillos.png',
+'descripcion':'Con un diseño moderno y forma anatómica, tiene un amplio espacio para acomodar los pies. Hecha de material altamente resistente a los productos químicos, facilita la limpieza y proporciona durabilidad, lo que permite trabajar con agua caliente o fría.',
+'precio':'110.00', 
+'categoria':'Herramientas',
+'id':'22'}); 
+
+addItem({'nombre':'Razor Dead Skin cuchilla removedora de piel muerta',
+'img':'/img/Productos/herramientas/Razor Dead Skin cuchilla removedora de piel muerta.jpg',
+'descripcion':'La curva se adapta a cualquier tipo de pie siendo seguro y sin preocupaciones para el ususario. Es una Técnica 100% segura ya que no es  bisturi. Esta técnica también es conocida como técnica de raspado.',
+'precio':'79.00', 
+'categoria':'Herramientas',
+'id':'23'}); 
+
+//---------------------------SANITIZANTE-----------------------------------------------------------------
+addItem({'nombre':'Sanitizer bombs (para desinfectar la tina de pedicure) 500 g (aprox 40pz)',
+'img':'/img/Productos/sanitizanteYLimpiadores/Sanitizer Bombs (para desinfectar la tina de pedicure) 500 g (aprox 40pz).png',
+'descripcion':'Tabletas desinfectantes para tina de pedicura pedicura, ayudan a prevenir hongo, pie de atleta, etc.',
+'precio':'219.00', 
+'categoria':'Sanitizantes y Limpiadores',
+'id':'24'}); 
+
+addItem({'nombre':'Shampoo espumante antibacterial aroma arandano 250 ml ',
+'img':'/img/Productos/sanitizanteYLimpiadores/Shampoo_Espumante_Antibacterial_ARANDANO250ml.png',
+'descripcion':'El shampoo espumante antibacterial es un producto muy efectivo con un agradable aroma dejando el área completamente limpia, suaves y humectada y con su protección antibacterial elimina efectivamente las bacterias causantes de múltiples enfermedades. Este shampoo es biodegradable.',
+'precio':'59.00', 
+'categoria':'Sanitizantes y Limpiadores',
+'id':'25'}); 
+
+addItem({'nombre':'Shampoo espumante antibacterial aroma arandano 1 litro',
+'img':'/img/Productos/sanitizanteYLimpiadores/Shampoo Espumante Antibacterial ARANDANO 1 Litro  .png',
+'descripcion':'El shampoo espumante antibacterial es un producto muy efectivo con un agradable aroma dejando el área completamente limpia, suaves y humectada y con su protección antibacterial elimina efectivamente las bacterias causantes de múltiples enfermedades. Este shampoo es biodegradable.',
+'precio':'187.00', 
+'categoria':'Sanitizantes y Limpiadores',
+'id':'26'}); 
+
+addItem({'nombre':'Sani Spray Antiseptico 250 ml ',
+'img':'/img/Productos/sanitizanteYLimpiadores/SANI_SPRAY_ANTISEPTICO250ml.png',
+'descripcion':'Solución antiséptica recomendada para la desinfección de espacios y superficies, además no produce la oxidación de herramientas por lo que también se usa para desinfectar este material.',
+'precio':'67.00', 
+'categoria':'Sanitizantes y Limpiadores',
+'id':'27'}); 
+
+addItem({'nombre':'Sani Spray Antiseptico 1 litro  ',
+'img':'/img/Productos/sanitizanteYLimpiadores/Sani Spray Antiseptico 1 litro  .png',
+'descripcion':'Solución antiséptica recomendada para la desinfección de espacios y superficies, además no produce la oxidación de herramientas por lo que también se usa para desinfectar este material.',
+'precio':'220.00', 
+'categoria':'Sanitizantes y Limpiadores',
+'id':'28'}); 
+
+//---------------------------ACEITES PARA MASAJE-----------------------------------------------------------------
+addItem({'nombre':'Aceite para masaje aroma toronja 250 ml ',
+'img':'/img/Productos/aceitesParaMasaje/Aceite para masaje TORONJA 250 ml .png',
+'descripcion':'La toronja posee magnificas propiedades cosméticas para la piel, actúa como astringente y reafirmante. ayuda a a reafirmar el tejido. No mancha la ropa, ideal para masaje, brinda tranquilidad, descanso, alivio y relajación al cuerpo.',
+'precio':'147.00', 
+'categoria':'Aceites para masaje',
+'id':'29'}); 
+
+addItem({'nombre':'Aceite para masaje aroma toronja 1 litro ',
+'img':'/img/Productos/aceitesParaMasaje/Aceite para masaje TORONJA 1 Litro  .png',
+'descripcion':'La toronja posee magnificas propiedades cosméticas para la piel, actúa como astringente y reafirmante. ayuda a a reafirmar el tejido. No mancha la ropa, ideal para masaje, brinda tranquilidad, descanso, alivio y relajación al cuerpo.',
+'precio':'347.00', 
+'categoria':'Aceites para masaje',
+'id':'30'}); 
+
+addItem({'nombre':'Aceite para masaje aroma almendras dulces 250 ml ',
+'img':'/img/Productos/aceitesParaMasaje/Aceite para masaje ALMENDRAS DULCES 250 ml .png',
+'descripcion':'Suaviza y proporciona elasticidad a la piel, evita la resequedad de la misma. Tiene efectos emolientes, suaviza y protege la piel.',
+'precio':'147.00', 
+'categoria':'Aceites para masaje',
+'id':'31'});
+
+addItem({'nombre':'Aceite para masaje aroma almendras dulces 1 litro',
+'img':'/img/Productos/aceitesParaMasaje/Aceite para masaje ALMENDRAS DULCES 1 Litro  .png',
+'descripcion':'Suaviza y proporciona elasticidad a la piel, evita la resequedad de la misma. Tiene efectos emolientes, suaviza y protege la piel.',
+'precio':'347.00', 
+'categoria':'Aceites para masaje',
+'id':'32'});
+
+//---------------------------LOCIÓN REFRESCANTE-----------------------------------------------------------------
+addItem({'nombre':'Locion refrescante para pies 250 ml ',
+'img':'/img/Productos/locionRefrescante/LOCION_REFRESCANTE_PIES.png',
+'descripcion':'La crema refrescante para pies es un tratamiento auxiliar para piernas y pies cansados. Brinda una sensación de frescura y relajación, suaviza e hidrata la piel. Excelente auxiliar desinflamatorio que activa la circulación en combinación con el masaje. Contiene alcanfor y mentol, desinflamatorio, refrescante, aromatizante y agente antimicrobiano.',
+'precio':'77.00', 
+'categoria':'Lociones',
+'id':'33'}); 
+
+addItem({'nombre':'Locion refrescante para pies 1 litro',
+'img':'/img/Productos/locionRefrescante/Locion Refrescante para Pies 1 Litro  .png',
+'descripcion':'La crema refrescante para pies es un tratamiento auxiliar para piernas y pies cansados. Brinda una sensación de frescura y relajación, suaviza e hidrata la piel. Excelente auxiliar desinflamatorio que activa la circulación en combinación con el masaje. Contiene alcanfor y mentol, desinflamatorio, refrescante, aromatizante y agente antimicrobiano.',
+'precio':'231.00', 
+'categoria':'Lociones',
+'id':'34'}); 
+
+//---------------------------MASCARILLAS-----------------------------------------------------------------
+addItem({'nombre':'Fade Mask (aclarante) té verde y sándalo 300 g',
+'img':'/img/Productos/Mascarillas/MASCARILLA_TE_VERDE_SANDALO.png',
+'descripcion':'Mascarilla nutritiva a base de arcilla blanca, contiene sándalo que es un antienvejecimiento, nos ayuda a reducir marcas de la piel como las cicatrices. Y Té verde que Rejuvenece las células de la piel, ayuda a desin-amar la piel. Limpiando a profundidad regenerando las células de la superficie y estimulando la renovación de estas.',
+'precio':'165.00', 
+'categoria':'Mascarillas',
+'id':'35'}); 
+
+addItem({'nombre':'Fresh Mask (refrescante) mentol y hierbabuena 300g',
+'img':'/img/Productos/Mascarillas/MASCARILLA_MENTOL_HIERBABUENA.png',
+'descripcion':'Elimina las células muertas, las impurezas y el exceso de grasa. · Es refrescante y deja la piel limpia, la revitaliza, suaviza, hidrata y nutre. · Regula el exceso de grasa en la piel. La mascarilla Mentol-Hierbabuena ayuda a eliminar células muertas e impurezas y a regular el exceso de grasa cutánea, dejando la piel profundamente limpia, revitalizada, suave e hidratada.',
+'precio':'165.00', 
+'categoria':'Mascarillas',
+'id':'36'}); 
+
+//---------------------------EXFOLIANTES-----------------------------------------------------------------
+addItem({'nombre':'Berry Scrub exfoliante profundo de frutos rojos 300 g',
+'img':'/img/Productos/Exfoliante/EXFOLIANTE_FRUTOS_ROJOS.png',
+'descripcion':'Exfoliante profundo con ingredientes naturales. Beneficios desintoxicantes, vitamina C, antioxidantes y vitamina E. Con partículas exfoliantes que ayuda a eliminar la piel dañada, las células muertas y las imperfecciones revelando el mejor estado de la piel, sus aceites ayudan a blanquear la piel.',
+'precio':'165.00', 
+'categoria':'Exfoliantes',
+'id':'37'}); 
+
+addItem({'nombre':'Honey Scrub exfoliante oleoso de miel-avena 300 g',
+'img':'/img/Productos/Exfoliante/EXFOLIANTE_MIEL_AVENA.png',
+'descripcion':'Ayudan a retirar células muertas dejando una piel más clara y aportando una apariencia más tersa y suave. Avena elimina la piel muerta y deja una piel radiante. Es un gran exfoliante para el cuerpo que sólo contiene ingredientes naturales, dejando la piel más fresca. Ingredientes de exfoliación suave, elimina la suciedad de la piel y tiene el doble efecto de hidratar y suavizar la piel.',
+'precio':'165.00', 
+'categoria':'Exfoliantes',
+'id':'38'});
+
+//---------------------------BIO JELLY SPA-----------------------------------------------------------------
+addItem({'nombre':'Bio Jelly Spa 90g. Tropical',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 90g. TROPICAL .png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'79.00', 
+'categoria':'Bio Jelly Spa',
+'id':'39'}); 
+
+addItem({'nombre':'Bio Jelly Spa 90g. Té Verde',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 90g. TÉ VERDE.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'79.00', 
+'categoria':'Bio Jelly Spa',
+'id':'40'}); 
+
+addItem({'nombre':'Bio Jelly Spa 90g. Coconut',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 90g. COCONUT.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'79.00', 
+'categoria':'Bio Jelly Spa',
+'id':'41'}); 
+
+addItem({'nombre':'Bio Jelly Spa 500g. Flowers',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 500g. FLOWERS.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'245.00', 
+'categoria':'Bio Jelly Spa',
+'id':'50'}); 
+
+addItem({'nombre':'Bio Jelly Spa 500g. Menta',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 500g. MENTA.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'245.00', 
+'categoria':'Bio Jelly Spa',
+'id':'51'}); 
+
+addItem({'nombre':'Bio Jelly Spa 500g. Limón',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 500g. LIMÓN.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'245.00', 
+'categoria':'Bio Jelly Spa',
+'id':'52'}); 
+
+addItem({'nombre':'Bio Jelly Spa 1 Kg. Naranja',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 1 kg. NARANJA.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'450.00', 
+'categoria':'Bio Jelly Spa',
+'id':'61'}); 
+
+addItem({'nombre':'Bio Jelly Spa 1 Kg. Lavanda',
+'img':'/img/Productos/bioJellySpa/BIO JELLY SPA 1 kg. LAVANDA.png',
+'descripcion':'Producto libre de químicos o conservantes dañinos para la piel y es totalmente biodegradable. En sus beneficios destaca una hidratación profunda para la piel. Activa la circulación sanguínea. Desinflama tus pies. Relaja músculos. Suaviza la piel. Exfolia ligeramente. Elimina toxinas que se encuentran en nuestro cuerpo. <span class="aromasjellyspa">Aromas existentes: Tropical, Té Verde, Coconut, Flowers, Menta, Limón, Naranja y Lavanda.</span>',
+'precio':'450.00', 
+'categoria':'Bio Jelly Spa',
+'id':'62'}); 
+
+//---------------------------BOMBAS EFERVESCENTES-----------------------------------------------------------------
+addItem({'nombre':'Docena Bath bombs Colección RAINBOW BOMBS (Bomba de baño efervescente)',
+'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_RAINBOW.png',
+'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'precio':'197.00', 
+'categoria':'Bombas Efervescentes',
+'id':'63'}); 
+
+addItem({'nombre':'Docena Bath bombs Colección GEMNSTONE (Bomba de baño efervescente)',
+'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_GEMSTONE.png',
+'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'precio':'197.00', 
+'categoria':'Bombas Efervescentes',
+'id':'64'}); 
+
+addItem({'nombre':'Docena Bath bombs Colección HEALING (Bomba de baño efervescente)',
+'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_HEALING.png',
+'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'precio':'197.00', 
+'categoria':'Bombas Efervescentes',
+'id':'65'}); 
+
+addItem({'nombre':'Bath bomb individual (Bomba de baño efervescente)',
+'img':'/img/Productos/bombasEfervescentes/BATH BOMB INDIVIDUAL (Bomba de baño efervescente).png',
+'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'precio':'18.00', 
+'categoria':'Bombas Efervescentes',
+'id':'66'}); 
+
+//---------------------------SALES EFERVESCENTES-----------------------------------------------------------------
+addItem({'nombre':'Sales efervescentes aroma Menta 300 g',
+'img':'/img/Productos/salesEfervescente/SALES_EFERVESCENTES_MENTA.png',
+'descripcion':'Especialmente indicadas para pies y manos secas, pies agrietados, reduce las cutículas ásperas, el mal olor de pies, sudor, infecciones, picazón en los pies. Alivia el cansancio en los pies. Sales minerales efervescentes ideales para manicure y pedicure, estas están hechas a base de ingredientes naturales, y nos ayuda a blanquear la piel y eliminar ligeras manchas e imperfecciones.',
+'precio':'79.00', 
+'categoria':'Sales Efervescentes',
+'id':'67'}); 
+
+addItem({'nombre':'Sales efervescentes aroma piña & coco 300 g',
+'img':'/img/Productos/salesEfervescente/SALES_EFERVESCENTES_PIÑACOCO.png',
+'descripcion':'Especialmente indicadas para pies y manos secas, pies agrietados, reduce las cutículas ásperas, el mal olor de pies, sudor, infecciones, picazón en los pies. Alivia el cansancio en los pies. Sales minerales efervescentes ideales para manicure y pedicure, estas están hechas a base de ingredientes naturales, y nos ayuda a blanquear la piel y eliminar ligeras manchas e imperfecciones.',
+'precio':'79.00', 
+'categoria':'Sales Efervescentes',
+'id':'68'}); 
+
+addItem({'nombre':'Sales efervescentes aroma Mix&Match (Tutti Frutti) 300 g',
+'img':'/img/Productos/salesEfervescente/SALES_EFERVESCENTES_MIX_MATCH.png',
+'descripcion':'Especialmente indicadas para pies y manos secas, pies agrietados, reduce las cutículas ásperas, el mal olor de pies, sudor, infecciones, picazón en los pies. Alivia el cansancio en los pies. Sales minerales efervescentes ideales para manicure y pedicure, estas están hechas a base de ingredientes naturales, y nos ayuda a blanquear la piel y eliminar ligeras manchas e imperfecciones.',
+'precio':'79.00', 
+'categoria':'Sales Efervescentes',
+'id':'69'}); 
+
+//---------------------------SALES MINERALES-----------------------------------------------------------------
+addItem({'nombre':'Mineral Tuzlar Sales minerales aroma canela 350 g',
+'img':'/img/Productos/salesMinerales/SALES_MINERALES350g_CANELA.png',
+'descripcion':'Las sales minerales BG SPA contiene elementos químicos naturales. Estos elementos de forma natural tienen beneficiosos efectos sobre nuestro cuerpo, entre otros son cicatrizantes y ayudan a eliminar toxinas, combaten el reuma y suavizan la piel. Los baños con sales minerales son relajantes. Alivian los dolores musculares y desintoxican la piel. También contiene aceites esenciales y extractos naturales para exfoliar suavemente, hidratar y dejar la piel con una sensación sedosa y suave. <span class="aromasSalesMine">Aromas existentes: Canela, Menta, Lavanda, Cítricos y Piña-Coco.</span>',
+'precio':'59.00', 
+'categoria':'Sales Minerales',
+'id':'70'}); 
+
+addItem({'nombre':'Mineral Tuzlar Sales minerales aroma menta 350 g',
+'img':'/img/Productos/salesMinerales/SALES_MINERALES350g_MENTA.png',
+'descripcion':'Las sales minerales BG SPA contiene elementos químicos naturales. Estos elementos de forma natural tienen beneficiosos efectos sobre nuestro cuerpo, entre otros son cicatrizantes y ayudan a eliminar toxinas, combaten el reuma y suavizan la piel. Los baños con sales minerales son relajantes. Alivian los dolores musculares y desintoxican la piel. También contiene aceites esenciales y extractos naturales para exfoliar suavemente, hidratar y dejar la piel con una sensación sedosa y suave. <span class="aromasSalesMine">Aromas existentes: Canela, Menta, Lavanda, Cítricos y Piña-Coco.</span>',
+'precio':'59.00', 
+'categoria':'Sales Minerales',
+'id':'71'}); 
+
+addItem({'nombre':'Mineral Tuzlar Sales minerales aroma lavanda 500g.',
+'img':'/img/Productos/salesMinerales/SALES_MINERALES500G_LAVANDA.png',
+'descripcion':'Las sales minerales BG SPA contiene elementos químicos naturales. Estos elementos de forma natural tienen beneficiosos efectos sobre nuestro cuerpo, entre otros son cicatrizantes y ayudan a eliminar toxinas, combaten el reuma y suavizan la piel. Los baños con sales minerales son relajantes. Alivian los dolores musculares y desintoxican la piel. También contiene aceites esenciales y extractos naturales para exfoliar suavemente, hidratar y dejar la piel con una sensación sedosa y suave. <span class="aromasSalesMine">Aromas existentes: Canela, Menta, Lavanda, Cítricos y Piña-Coco.</span>',
+'precio':'95.00', 
+'categoria':'Sales Minerales',
+'id':'77'}); 
+
+addItem({'nombre':'Mineral Tuzlar Sales minerales aroma citricos  500g.',
+'img':'/img/Productos/salesMinerales/SALES_MINERALES500G_CITRICOS.png',
+'descripcion':'Las sales minerales BG SPA contiene elementos químicos naturales. Estos elementos de forma natural tienen beneficiosos efectos sobre nuestro cuerpo, entre otros son cicatrizantes y ayudan a eliminar toxinas, combaten el reuma y suavizan la piel. Los baños con sales minerales son relajantes. Alivian los dolores musculares y desintoxican la piel. También contiene aceites esenciales y extractos naturales para exfoliar suavemente, hidratar y dejar la piel con una sensación sedosa y suave. <span class="aromasSalesMine">Aromas existentes: Canela, Menta, Lavanda, Cítricos y Piña-Coco.</span>',
+'precio':'95.00', 
+'categoria':'Sales Minerales',
+'id':'78'}); 
+
+addItem({'nombre':'Mineral Tuzlar Sales minerales aroma piña-coco 1 kg.',
+'img':'/img/Productos/salesMinerales/SALES_MINERALES_1KG_PIÑACOCO.png',
+'descripcion':'Las sales minerales BG SPA contiene elementos químicos naturales. Estos elementos de forma natural tienen beneficiosos efectos sobre nuestro cuerpo, entre otros son cicatrizantes y ayudan a eliminar toxinas, combaten el reuma y suavizan la piel. Los baños con sales minerales son relajantes. Alivian los dolores musculares y desintoxican la piel. También contiene aceites esenciales y extractos naturales para exfoliar suavemente, hidratar y dejar la piel con una sensación sedosa y suave. <span class="aromasSalesMine">Aromas existentes: Canela, Menta, Lavanda, Cítricos y Piña-Coco.</span>',
+'precio':'169.00', 
+'categoria':'Sales Minerales',
+'id':'84'});
