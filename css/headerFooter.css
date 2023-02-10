@@ -1,47 +1,39 @@
-body, header, footer{
-    font-family: 'Raleway';
-}
+/* ----- HEADER ----- */
 
 header{
     background: linear-gradient(180deg, rgba(141, 106, 175, 0.81) 22.97%, rgba(73, 12, 134, 0) 100%);
     background-color: #FFFFFF;
-}
-.textobg{
+} /* Color header */ 
+
+#imgSpa{
     color: white;
-    font-size: 25px;
-}
-.btn {
-    color: white;
-}
+    font-size: 35px;
+    font-family: 'Noto Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+} /* estilo letras, logo header */
 
 .nav-link{
     font-size: 23px;
     margin-right: 40px;
     font-weight: 700;
-}
+} /* estilo link navegadores de paginas */
+
 .text-primary{
     color: #512A5F!important;
-}
+} /* estilo link navegadores de paginas */
 
 a.text-primary:focus, a.text-primary:hover {
     color: #837295 !important;
-}
-.binav{
-    font-size: 26px;
-    color: white !important;
-}
+} /* estilo link navegadores de paginas */
 
-.navBotones{
-    display: none;
-}
 
-/* ----FOOTER---------------------------------*/
 
-body{
-    position: relative;
-    padding-bottom: 20rem ;
-    min-height: 100vh;
-}/* Ajuste body para no alterar footer*/
+
+
+/* ----- FOOTER ----- */
+
 
 .card_footer{
     background-color:  #EEBFFF!important;
@@ -56,7 +48,7 @@ footer{
     position: absolute;
     bottom: 0;
     width: 100%;
-}/* Color footer y posición*/
+}/* Color y posición Footer*/
 
 .card{
     background:none;
@@ -64,40 +56,40 @@ footer{
     padding-right: 0px;
     padding-left: 0px;
     padding-top: 20px;
-} /* Omite borde, color y padding de card´s */
+} /* Omite borde, color y padding de card´s Footer*/
 
 .card-body {
     padding: 0px;
-    padding-top: 3px;
-    padding-bottom: 3px;
-}/* Padding de car´d individuales*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}/* Padding de car´d individuales Footer*/
 
 .cardAtencion, .cardAtencion:hover {
     color: #512A5F!important;
-}/* hover enlaces Atencion a clientes*/
+}/* Hover enlaces Atencion a clientes Footer*/
 
 p {
     margin-top: 0px;
     margin-bottom: .3rem;
-} /* separacion entre lineas*/
+} /* Separacion entre lineas Footer*/
 
 .row{
     margin-left: 10px;
     margin-right: 10px;
     padding-top: 20px;
-}/* margen del div general row*/
+}/* Margen del div general row Footer*/
 
 .card-title{
     color: #512A5F;
     font-size: 16px;
     font-weight: 700;
     text-align: center;
-}/* Stylo titulos de card´s */
+}/* estilo titulos de card´s Footer*/
 
 .card-text{
     text-align: center;
     color: #512A5F;
-}/* Stilo texto/parrafo de card´s*/
+}/* Stilo texto/parrafo de card´s Footer*/
 
 .redes, .bi{
     align-content: center;
@@ -105,16 +97,16 @@ p {
     color: #512A5F;
     line-height: 0;
     text-align: left;
-} /* Styli redes sociales*/
+} /* estilo redes sociales Footer*/
 
 .bi:focus, .bi:hover {
     color: #837295 !important;
-} /* hover bi-redes */ 
+} /* hover bi-redes Footer*/ 
 
 .redes{
     display: flex;
     justify-content: center;
-} /* Posición iconos redes sociales */
+} /* Posición iconos redes sociales Footer*/
 
 .btnSuscribirse{
     display: flex;
@@ -127,77 +119,78 @@ p {
     font-weight: 600;
     padding: 5px 20px 5px 20px;
     margin-top: 10px;
-    /* Actualizacion para efecto boton*/
+    /* Actualizacion para efecto boton Footer*/
     transition: color 0.5s, background 0.5s;
 
-}/* Stylo botón suscribirse*/
+}/* estilo botón suscribirse*/
+
 /*-----Efecto------------------*/
 .btnSuscribirse:hover{
     color: white;
     background-color:  #C4ACD8 ;
-}
+}   /* Estilo boton suscribirse Footer*/
+
 .btnSuscribirse:active{
     box-shadow: inset 0 0 20px white;
-}
-
-/*-----------------------------*/
+}   /* Estilo boton suscribirse Footer*/
 
 .botonSus{
     margin-left: 40px;
     margin-right:40px;
-}/* Margen card botón*/
+}/* Margen card boton suscribirse Footer*/
 
-.textjv{
-    color: #24071a;
-    font-weight: 700;
-    text-decoration: none;
-}/* Styli textjv*/
+
 
 
 @media screen and (max-width: 576px) {
+    #btnBq {
+        display: none;
+    } /* Desaparece boton busqueda movil */
 
-    header{
-        background: linear-gradient(180deg, rgba(141, 106, 175, 0.81) 22.97%, rgba(73, 12, 134, 0) 100%);
-        background-color: #FFFFFF;
-        padding-top: 1rem;
-        padding-bottom: 1rem;
+    #lupacont {
+        display: none;
+    }/* Desaparece lupa busqueda movil */
+
+    #imgSpa {
+        /* position: relative;
+        left: 5rem; */
         display: flex;
-    }
-    #btnBq{
-        display: none;
-    }
-    .bi-movil{
-        font-size: 26px;
-        top: 50px;
-    }
-    .card-body {
-        text-align: center;
-    }
-    .form-inline{
-        align-content: center;
-    }
-    .navSuper{
-        display: none;
-    }
+        justify-content: center;
+        font-size: 28px;
+    } /* Posición img-logoSpa movil */ 
 
-    .navBotones{
-        display: block;
-        position: absolute;
-        right: 30px;
-    }
-
-    body{
+    .button-nav{
         position: relative;
-        padding-bottom: 45rem ;
-        min-height: 100vh;
-    }/* Ajuste body para no alterar footer*/
+        bottom: 60px;
+        left: 10px;  
+    } /* Posición boton navegador movil */
 
-    .row{
-        margin-left: 10px;
-        margin-right: 10px;
-        padding-top: 20px;
-    }/* margen del div general row*/
-    
+    .logo_blanco{
+        width: 52px;
+    } /* color y tamaño de iconos */
+
 }
 
+@media screen and (max-width: 990px) {
 
+        #btnBq {
+            display: none;
+        } /* Desaparece boton busqueda movil */
+    
+        #lupacont {
+            display: none;
+        }/* Desaparece lupa busqueda movil */
+
+        #imgSpa {
+            /* position: relative;
+            left: 5rem; */
+            display: flex;
+            justify-content: center;
+        } /* Posición img-logoSpa movil */ 
+    
+        .button-nav{
+            position: relative;
+            bottom: 60px;
+            left: 10px;  
+        } /* Posición boton navegador movil */
+}
