@@ -67,6 +67,9 @@ body{
     color:  #a73c83;
 }
 /*---------------------------------------------------*/
+.espacioCatMod{
+    margin-top: 3.5rem;
+}
 .carousel {
     margin-bottom: 20px;
 }
@@ -107,9 +110,9 @@ a {
 
 /* Diseño menú categorías versión movil*/
 @media screen and (max-width: 576px) {
-    .carousel {
+   /*  .carousel {
         display: none;
-    }
+    } */
 
     #listaCategorias {
         position: sticky;

@@ -49,7 +49,7 @@ function filtrar (event){
 
 
             function addItem(item){
-    				const itemHTML = `<div class="${getClassCategory(item.categoria)} all col-md-3 col-lg-3 col-xl-3 col-sm-6">
+    				const itemHTML = `<div class="${getClassCategory(item.categoria)} espacioCatMod all col-md-3 col-lg-3 col-xl-3 col-sm-6">
 				    <div class="rd" style="width:auto;">
 				    <a href="#"><img src="${item.img}" class="card-img-top" data-toggle="modal" data-target="#modal_${item.id}" alt="..." /></a>
 				    </div>
@@ -501,30 +501,30 @@ addItem({'nombre':'Bio Jelly Spa 1 Kg. Lavanda',
 'id':'62'}); 
 
 //---------------------------BOMBAS EFERVESCENTES-----------------------------------------------------------------
-addItem({'nombre':'Docena Bath bombs Colección RAINBOW BOMBS (Bomba de baño efervescente)',
+addItem({'nombre':'Docena Bath bombs Colección RAINBOW BOMBS',
 'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_RAINBOW.png',
-'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'descripcion':'Bombas de baño efervescentes. Al sumergirlas en el agua generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
 'precio':'197.00', 
 'categoria':'Bombas Efervescentes',
 'id':'63'}); 
 
-addItem({'nombre':'Docena Bath bombs Colección GEMNSTONE (Bomba de baño efervescente)',
+addItem({'nombre':'Docena Bath bombs Colección GEMNSTONE',
 'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_GEMSTONE.png',
-'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'descripcion':'Bombas de baño efervescentes. Al sumergirlas en el agua generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
 'precio':'197.00', 
 'categoria':'Bombas Efervescentes',
 'id':'64'}); 
 
-addItem({'nombre':'Docena Bath bombs Colección HEALING (Bomba de baño efervescente)',
+addItem({'nombre':'Docena Bath bombs Colección HEALING',
 'img':'/img/Productos/bombasEfervescentes/BOMBAS_EFERVESCENTES_HEALING.png',
-'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'descripcion':'Bombas de baño efervescentes. Al sumergirlas en el agua generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
 'precio':'197.00', 
 'categoria':'Bombas Efervescentes',
 'id':'65'}); 
 
-addItem({'nombre':'Bath bomb individual (Bomba de baño efervescente)',
+addItem({'nombre':'Bath bomb individual',
 'img':'/img/Productos/bombasEfervescentes/BATH BOMB INDIVIDUAL (Bomba de baño efervescente).png',
-'descripcion':'Al sumergirlas generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
+'descripcion':'Bombas de baño efervescentes. Al sumergirlas en el agua generan un efecto relajante, terapéutico y lleno de nutrientes para la piel. Además, son libres de parabenos, aceites minerales, sulfatos, colorantes artificiales o cualquier derivado del petróleo. Después según el aroma y aceites esenciales que posean, tendrán unas propiedades específicas.',
 'precio':'18.00', 
 'categoria':'Bombas Efervescentes',
 'id':'66'}); 
